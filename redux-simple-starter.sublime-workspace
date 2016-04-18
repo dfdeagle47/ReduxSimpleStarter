@@ -1,0 +1,2147 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ext",
+				"extract"
+			],
+			[
+				"Ex",
+				"ExtractHTML"
+			],
+			[
+				"Ext",
+				"ExtractCSS"
+			],
+			[
+				"han",
+				"handlebars"
+			],
+			[
+				"auto",
+				"autoprefixer"
+			],
+			[
+				"string",
+				"stringify	(AutosizeText.jsx)"
+			],
+			[
+				"ap",
+				"app	(main.js)"
+			],
+			[
+				"requ",
+				"requestAnimationFrame"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"__se",
+				"__setSelectedQuestion"
+			],
+			[
+				"sele",
+				"selectedView"
+			],
+			[
+				"selec",
+				"selectedQuestion"
+			],
+			[
+				"sel",
+				"selectedView"
+			],
+			[
+				"show",
+				"showQuestion"
+			],
+			[
+				"quest",
+				"questionIsVisible"
+			],
+			[
+				"max",
+				"maxScore"
+			],
+			[
+				"Answer",
+				"AnswerSchema"
+			],
+			[
+				"classN",
+				"classNames"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"list",
+				"listClassName	(react-list.js)"
+			],
+			[
+				"render",
+				"renderItem"
+			],
+			[
+				"Reac",
+				"ReactList"
+			],
+			[
+				"coll",
+				"collectionMapper"
+			],
+			[
+				"bro",
+				"browserHistory	(Router.jsx)"
+			],
+			[
+				"VI",
+				"Views/"
+			],
+			[
+				"supp",
+				"supportsHistory"
+			],
+			[
+				"has",
+				"hashHistory	(Router.jsx)"
+			],
+			[
+				"slug",
+				"slugAlias	(Event.jsx)"
+			],
+			[
+				"Moe",
+				"ModeratorBar"
+			],
+			[
+				"Mode",
+				"ModeratorBar	(Event.jsx)"
+			],
+			[
+				"Sh",
+				"Shared"
+			],
+			[
+				"Modera",
+				"ModeratorBar	(ModeratorBar.jsx)"
+			],
+			[
+				"br",
+				"browserHistory	(Event.jsx)"
+			],
+			[
+				"tool",
+				"tooltipId"
+			],
+			[
+				"hide",
+				"hideTooltip"
+			],
+			[
+				"too",
+				"tooltipShow"
+			],
+			[
+				"toop",
+				"tooltipContent"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"toot",
+				"tooltipClass"
+			],
+			[
+				"class",
+				"classNames"
+			],
+			[
+				"To",
+				"tooltipContent"
+			],
+			[
+				"S",
+				"Styles/"
+			],
+			[
+				"React",
+				"ReactTooltip"
+			],
+			[
+				"tol",
+				"tooltipFor"
+			],
+			[
+				"info",
+				"information"
+			],
+			[
+				"correc",
+				"correctly"
+			],
+			[
+				"slee",
+				"selectedWall"
+			],
+			[
+				"star",
+				"startContent"
+			],
+			[
+				"start",
+				"startContent"
+			],
+			[
+				"showQU",
+				"showQuestions	(GroupQuestions.jsx)"
+			],
+			[
+				"showQ",
+				"showQuestions	(GroupQuestionBase.js)"
+			],
+			[
+				"Questions",
+				"Questions.jsx"
+			],
+			[
+				"QU",
+				"Questions"
+			],
+			[
+				"Ho",
+				"HomeworkOrSurveyModerator"
+			],
+			[
+				"paren",
+				"parentType"
+			],
+			[
+				"hasIn",
+				"hasInteractionsGrid"
+			],
+			[
+				"M",
+				"MessageBar.jsx"
+			],
+			[
+				"isMo",
+				"isModerator"
+			],
+			[
+				"all",
+				"allQuestions"
+			],
+			[
+				"sury",
+				"surveyQuestions"
+			],
+			[
+				"hom",
+				"homeworkQuestions"
+			],
+			[
+				"quesiton",
+				"questionIsVisible	(Question.jsx)"
+			],
+			[
+				"group",
+				"GroupQuestionBase.js"
+			],
+			[
+				"remove",
+				"removeChoice"
+			],
+			[
+				"raw",
+				"rawChoice"
+			],
+			[
+				"rawCh",
+				"rawChoices"
+			],
+			[
+				"update",
+				"updateChoice"
+			],
+			[
+				"itemsTo",
+				"itemsToRemove"
+			],
+			[
+				"cal",
+				"callback"
+			],
+			[
+				"ca",
+				"callback"
+			],
+			[
+				"json",
+				"jsonArray"
+			],
+			[
+				"hasV",
+				"hasVoteForThisChoice"
+			],
+			[
+				"L",
+				"Link.jsx"
+			],
+			[
+				"onS",
+				"onSwitchToWall"
+			],
+			[
+				"onSw",
+				"onSwitchToQuestion"
+			],
+			[
+				"onSh",
+				"onSwitchToWall"
+			],
+			[
+				"onSwi",
+				"onSwitchToWall"
+			],
+			[
+				"onSi",
+				"onSwitchToQuestion"
+			],
+			[
+				"onSwit",
+				"onSwitchToQuestion"
+			],
+			[
+				"disp",
+				"displayOnProjectedScreen	(ResultModal.jsx)"
+			],
+			[
+				"route",
+				"routeResultsModerator	(Event.js)"
+			],
+			[
+				"routeRe",
+				"routeResultsModerator	(GroupQuestionBase.js)"
+			],
+			[
+				"Intera",
+				"Interface"
+			],
+			[
+				"Ta",
+				"Translate"
+			],
+			[
+				"event",
+				"eventFetched"
+			],
+			[
+				"answer",
+				"answerIsVisible"
+			],
+			[
+				"answe",
+				"answerIsVisible"
+			],
+			[
+				"func",
+				"function	function"
+			],
+			[
+				"plan",
+				"planPath"
+			],
+			[
+				"prop",
+				"properties"
+			],
+			[
+				"down",
+				"downloadUrl"
+			],
+			[
+				"Auth",
+				"Authentication	(authentication.js)"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"modera",
+				"moderator"
+			],
+			[
+				"item",
+				"itemLeftChildren"
+			],
+			[
+				"pub",
+				"planPublicProps"
+			],
+			[
+				"p",
+				"plan/"
+			],
+			[
+				"defau",
+				"defaultPlan"
+			],
+			[
+				"pla",
+				"planId"
+			],
+			[
+				"defua",
+				"defaultPlan"
+			],
+			[
+				"getUser",
+				"getUserPlan"
+			],
+			[
+				"eve",
+				"eventSlug"
+			],
+			[
+				"subs",
+				"subsMap"
+			],
+			[
+				"evnet",
+				"eventsMap"
+			],
+			[
+				"plans",
+				"plansMap"
+			],
+			[
+				"plsn",
+				"plansMap"
+			],
+			[
+				"confi",
+				"configureQuestionsBinding"
+			],
+			[
+				"next",
+				"nextProps"
+			],
+			[
+				"nextP",
+				"nextProps	(ResultModal.jsx)"
+			],
+			[
+				"componentWill",
+				"componentWillReceiveProps	(ResultModal.jsx)"
+			],
+			[
+				"path",
+				"pathname"
+			],
+			[
+				"amper",
+				"ampersandReactMixin"
+			],
+			[
+				"listen",
+				"listenTo	(Event.jsx)"
+			],
+			[
+				"componen",
+				"componentWillMount	(Event.jsx)"
+			],
+			[
+				"moder",
+				"moderatorView"
+			],
+			[
+				"selecte",
+				"selectedWall"
+			],
+			[
+				"mode",
+				"moderatorView"
+			],
+			[
+				"seel",
+				"selectedWall"
+			],
+			[
+				"cancel",
+				"cancelOldPlan"
+			],
+			[
+				"deac",
+				"deactivateOldPlan"
+			],
+			[
+				"getOl",
+				"getOldPlan"
+			],
+			[
+				"sle",
+				"selectedInteractionProps"
+			],
+			[
+				"onMode",
+				"onModerate"
+			],
+			[
+				"prevet",
+				"preventDefault"
+			],
+			[
+				"parent",
+				"parentModel"
+			],
+			[
+				"dis",
+				"display	(translation-fr.js)"
+			],
+			[
+				"other",
+				"otherPresentations"
+			],
+			[
+				"parne",
+				"parentModel"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 784.0,
+		"last_filter": "sass",
+		"selected_items":
+		[
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"sas",
+				"SassBeautify"
+			],
+			[
+				"",
+				"AutoFileName: Default Settings"
+			],
+			[
+				"sassbeautify",
+				"SassBeautify"
+			],
+			[
+				"htl",
+				"HTMLBeautify"
+			],
+			[
+				"h",
+				"HTMLBeautify"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"s",
+				"SassBeautify"
+			],
+			[
+				"replnode",
+				"SublimeREPL: Node"
+			],
+			[
+				"ar",
+				"Tasks: Archive"
+			],
+			[
+				"arc",
+				"Tasks: Archive"
+			],
+			[
+				"hm",
+				"HTMLBeautify"
+			],
+			[
+				"hmt",
+				"HTMLBeautify"
+			],
+			[
+				"d",
+				"Diffy Compare"
+			],
+			[
+				"dif",
+				"Diffy Compare"
+			],
+			[
+				"archive",
+				"Tasks: Archive"
+			],
+			[
+				"en",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"diff",
+				"Diffy Compare"
+			],
+			[
+				"disli",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"linter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"arch",
+				"Tasks: Archive"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"a",
+				"Tasks: Archive"
+			],
+			[
+				"l",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"sublien",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"jsf",
+				"JSFMT: Format the current file"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"settings",
+				"Preferences: Settings - User"
+			],
+			[
+				"origami",
+				"Origami: Remove Saved Layout"
+			],
+			[
+				"og",
+				"Origami: Destroy Pane Above"
+			],
+			[
+				"borw",
+				"Preferences: Browse Packages"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"edit",
+				"Project: Edit Project"
+			],
+			[
+				"rege",
+				"Preferences: Reg Replace Settings – User"
+			],
+			[
+				"jsfmt",
+				"JSFMT: Toggle autoformat"
+			],
+			[
+				"js",
+				"JSFMT: Settings - User"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"jfs",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"hmtl",
+				"HTMLBeautify"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"sublsett",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"tog",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"subliset",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"Enae",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"lint",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"toggl",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"settgs",
+				"JSFMT: Settings - User"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"toggl lin",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"toggle lin",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"Enable linter",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"ena",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"ena linter",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"jsbea",
+				"Javascript Beautify"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"key bin",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"keybind",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"jsfm",
+				"JSFMT: Format the current file"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"new",
+				"Tasks: New document"
+			],
+			[
+				"sassE",
+				"SassBeautify"
+			],
+			[
+				"Linter",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"removee",
+				"Package Control: Remove Package"
+			],
+			[
+				"synta",
+				"SyntaxFold: Unfold All Default"
+			],
+			[
+				"Stack",
+				"Stackoverflow: Search from Input"
+			],
+			[
+				"SyntaxFold:",
+				"SyntaxFold: Fold All Default"
+			],
+			[
+				"SyntaxFold",
+				"SyntaxFold: Fold Current Default"
+			],
+			[
+				"preferesy",
+				"Preferences: SyntaxFold Keybindings - Default"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"text",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"node",
+				"SublimeREPL: Node"
+			],
+			[
+				"glue",
+				"Glue - Launch"
+			],
+			[
+				"isnt",
+				"Package Control: Install Package"
+			],
+			[
+				"tern",
+				"TernJS: Reload"
+			],
+			[
+				"ternjs",
+				"TernJS: Reload"
+			],
+			[
+				"Tern",
+				"TernJS: Reload"
+			],
+			[
+				"beaut",
+				"SassBeautify"
+			],
+			[
+				"SassBea",
+				"SassBeautify"
+			],
+			[
+				"Remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"package re",
+				"Package Control: Remove Package"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inde",
+				"Indent XML"
+			],
+			[
+				"index",
+				"Indent XML"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"remv",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"in	",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 928.0
+	},
+	"console":
+	{
+		"height": 387.0,
+		"history":
+		[
+			"`1 x5",
+			"glue help",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/ReduxSimpleStarter"
+	],
+	"file_history":
+	[
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Widgets/Events/Details/EventDetails.html",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Application/SocketController.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/sockets/SocketController.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/package.json",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/models/user/schema.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Widgets/Questions/List/QuestionsCollectionView.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Widgets/Events/Details/EventDetails.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Widgets/Questions/List/LayoutView.html",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Widgets/Questions/List/QuestionItemView.html",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Application/Application.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/controllers/question.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/models/event/actions.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/models/question/actions.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/main.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/webpack.config.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/landing/layouts/landing.hbs",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/assemble-loader.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/out/landing/landing-de.hbs",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/assets.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/landing/pages/landing.hbs",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/out/landing/landing-es.hbs",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/Gruntfile.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/out/landing/landing-fr.hbs",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/landing.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/sass/common/base/_animations.scss",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/sass/common/_main.scss",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/sass/dashboard/layouts/_default.scss",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/config.rb",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/config.codekit",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/tsconfig.json",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/webpack.config.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Views/Components/ListView.jsx",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Views/Components/Lightbox.jsx",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/css/application.css",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/robots.txt",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/out/css/application.css",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app.css",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/home.html",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/webpack.production.config.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/dist/home.html",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Views/Results/MCQ.jsx",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/css/application.css.ORi",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/sass/interactions/components/_login-form.scss",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/sass/dashboard/components/_login-form.scss",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/sass/dashboard/components/_modals.scss",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/sass/dashboard/ui/_forms.scss",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/sass/interactions/components/_messages-wall.scss",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/sass/results/themes/_default.scss",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/sass/results/ui/_forms.scss",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Views/Components/AutosizeText.jsx",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/dist/common.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app.dev.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/dist/vendor.bundle.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/.babelrc",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app.dev.webpack.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/prospect/data-2016-04-14.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/prospect/prospect-io.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/prospect/data-2016-03-24.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/sass/results/components/_rating.scss",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Views/Dashboard/Questions.jsx",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Views/Dashboard/GroupQuestions.jsx",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/sgs-auth/package.json",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/code-challenge/package.json",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/wooclap.sublime-project",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/code-challenge/Gruntfile.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/code-challenge/server.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Application/mixins/AuthMixin.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/todo/invoice-207-correct-new-invoice-218.json",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/prospect/data-2016-04-12.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/prospect/data-2016-04-12-2.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/sass/common/components/_section-list.scss",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/sass/dashboard/ui/_buttons.scss",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Views/Results/ResultModal.jsx",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Views/Dashboard/Event.jsx",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/sass/common/layouts/_default.scss",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/sass/results/layouts/_default.scss",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Views/Dashboard/Presentations.jsx",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Models/Presentation/Presentation.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/models/generic-element/generic-element-mixin.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/models/presentation/develop.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/controllers/presentation.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/models/presentation/life-cycle.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Models/Presentation/Presentations.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Models/Base/OrderedWooClapCollection.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/models/presentation/routing.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/locales/translation-nl.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/node_modules/react/package.json",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/locales/translation-fr.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/locales/translation-de.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/node_modules/react/react.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/locales/translation-es.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/vat-handler/src/vat-calculator.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/vat-handler/package.json",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/models/invoice/schema.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/models/subscription/schema.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Models/Event/Event.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Views/Results/Wall.jsx",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/sass/results/ui/_buttons.scss",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/sass/common/ui/_buttons.scss",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/locales/translation-en.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Models/Base/ChoiceBase.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Models/File/File.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Models/Base/FileBase.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Models/Question/subquestions/MCQ/Choice.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Models/Question/subquestions/MCQ/MCQ.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Models/Question/Question.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Views/Results/Rating.jsx",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/models/question/wall/getters.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Views/Interactions/Rating.jsx",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Models/Question/subquestions/Rating/Rating.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Views/Results/Report.jsx",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Models/Question/subquestions/GuessNumber/GuessNumber.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/models/question/guess-number/schema.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/models/question/wall/answer/_main.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/models/question/wall/actions.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/models/question/wall/answer/setter.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/models/question/wall/answer/getter.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Views/Interactions/Wall.jsx",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/models/answer/answer-collection-mixin.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Views/Results/ParentResults.jsx",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/sass/results/components/_number-results.scss",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Views/Dashboard/Events.jsx",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/sass/common/base/_colors.scss",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/sass/dashboard/components/_message-bar.scss",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Views/Components/InlineEdit.jsx",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Views/Dashboard/GroupQuestion.jsx",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/node_modules/react-list/react-list.js",
+		"/C/Users/EAgle/Dropbox/EAgle/8.2015/wooclap/git/wooclap/src/public/src/app/Application/Router.jsx"
+	],
+	"find":
+	{
+		"height": 50.0
+	},
+	"find_in_files":
+	{
+		"height": 200.0,
+		"where_history":
+		[
+			"-node_modules/,-src/public/src/app.dev",
+			"-node_modules/,-src/public/src/app.dev,-src/public/src/landing",
+			"-node_modules/,-app.dev*",
+			"-node_modules/,-src/",
+			"-src/",
+			"-node_modules/ -src/",
+			"-node_modules/ -src",
+			"-node_modules/ -public",
+			"-node_modules/ -src/public",
+			"-node_modules/ -**/app.dev.fullPaths.js",
+			"-node_modules/ -/**/app.dev.fullPaths.js",
+			"-node_modules/ -app.dev.fullPaths.js",
+			"-node_modules/ -src/public/src/app.dev*",
+			"-node_modules/ -app.dev*",
+			"-node_modules/",
+			"-node_modules",
+			"node_modules/",
+			"",
+			"sass/",
+			"sass",
+			"",
+			"sass",
+			"sass/",
+			"",
+			"landing",
+			"",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\public\\src\\app\\Widgets\\Products",
+			"",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\public\\src\\app\\Widgets\\Questions\\Details\\View\\Shared",
+			"",
+			"app/Models",
+			"",
+			"-node_modules/",
+			"-nodes_modules/",
+			"",
+			"(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700",
+			"-node_modules/",
+			"",
+			"-node_modules/",
+			"",
+			"-node_modules/",
+			"-node_modules",
+			"",
+			"-node_modules/*",
+			"-node_modules",
+			"",
+			"<open folders>,-node_modules/*",
+			"",
+			"<open folders>,-node_modules/*",
+			"<open folders>,-node_modules/*,-../template/themeforest-9110062-coco-responsive-bootstrap-admin-and-frontend-template/**",
+			"<open folders>,-node_modules/*,-../template/themeforest-9110062-coco-responsive-bootstrap-admin-and-frontend-template",
+			"<open folders>,-node_modules/*,-../../../template/themeforest-9110062-coco-responsive-bootstrap-admin-and-frontend-template",
+			"<open folders>,-node_modules/*,-../../template/themeforest-9110062-coco-responsive-bootstrap-admin-and-frontend-template",
+			"<open folders>,-node_modules/*",
+			"<open folders>,-node_modules/*,-../../template/themeforest-9110062-coco-responsive-bootstrap-admin-and-frontend-template",
+			"<open folders>,-node_modules/*,-../../template/themeforest-9110062-coco-responsive-bootstrap-admin-and-frontend-template/*",
+			"<open folders>,-node_modules/*,-../../template/themeforest-9110062-coco-responsive-bootstrap-admin-and-frontend-template/",
+			"<open folders>,-node_modules/*,-C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\template\\themeforest-9110062-coco-responsive-bootstrap-admin-and-frontend-template",
+			"<open folders>,-node_modules/*",
+			"<open folders>,-*node_modules",
+			"<open folders>-node_modules",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\controllers",
+			"<open folders>",
+			"<open folders>,C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\node_modules\\socket.io",
+			"<open folders>",
+			"<open folders>,C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\public\\src\\bower_components",
+			"<open folders>",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\models\\question\\wall",
+			"<open folders>",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\public\\src\\landing",
+			"<open folders>	",
+			"<open folders>",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\public\\src\\less",
+			"<open folders>",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\public\\src\\scss",
+			"<open folders>",
+			"<open folders>,C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\public\\src\\bower_components",
+			"<open folders>",
+			"<open folders>,C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\public\\src\\bower_components",
+			"<open folders>",
+			"<open folders>,C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\public\\src\\bower_components",
+			"<open folders>",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\,-*C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\public\\dist*",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\,-*dist*",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\,-dist*",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\,-C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\public\\dist\\*",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\,-*C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\public\\dist*",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\,-*C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\public\\dist\\*",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\,-*C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\public\\dist\\",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\,-*public\\dist\\",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\,-*\\public\\dist\\",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\public\\src",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\public\\src\\",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\public\\src\\app\\Models",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\public\\src\\app",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\public\\src",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\public\\src",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\node_modules\\sgs-routing",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\node_modules\\sgs-*",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\node_modules\\",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\node_modules\\sgs-routing",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\node_modules\\sgs-auth",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\public\\src",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\public\\",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\public\\src\\",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\public\\src\\app\\Widgets",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\public\\src",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\public\\src",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\public\\src",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\node_modules\\sg-files-system",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\node_modules\\sg-files-system,-\\node_modules\\*",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\node_modules\\sg-files-system",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\",
+			"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\wooclap\\src\\"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"questionRegion",
+			"getResults",
+			"hot-",
+			"hot",
+			"react-hot-transform",
+			"react-hot-tran",
+			"assemble",
+			"handle",
+			"r2",
+			"r1",
+			"img/",
+			"img",
+			"background-image",
+			"sass",
+			"background-image",
+			"icon-group-left.svg",
+			"icon-group-left\nicon-group-left\nicon-group-left.svg",
+			"icon-group-left\nicon-group-left",
+			"icon-group-left",
+			"url(\"",
+			"url(",
+			"background-image",
+			"url(",
+			"background-image: url(",
+			"has-icons.tabs-single:before",
+			"autopre",
+			"icon",
+			".svg",
+			"url(\"",
+			"svg",
+			"url(\"",
+			"url(",
+			"url",
+			"icons-group-right.svg",
+			"icons-group-right.svg ",
+			" ../../images/dashboard/svg/icons-group-left.svg",
+			".svg",
+			"autopre",
+			"lodash",
+			"isFunction",
+			"lodash/",
+			"bootstrap",
+			"bootstrap-sass",
+			"lodash",
+			"require('lodash')",
+			"prod-vendor",
+			"vendo",
+			"ugli",
+			"AutosizeText",
+			"uglif",
+			"es2015",
+			"^([^\\t]+)\\t([^\\t]+)\\t([^\\t]+)\\t([^\\t]+)$",
+			"react",
+			"jsc",
+			"react",
+			"(\\w)\\s+'",
+			"^([^\\t]+)\\t([^\\t]+)\\t([^\\t]+)\\t([^\\t]+)\\t([^\\t]+)$",
+			"btn--dark",
+			"questionIsVisible",
+			"switchToMain",
+			"scrollable",
+			"s",
+			"scrollable",
+			".scrollable",
+			"collection",
+			"idx",
+			"addElement",
+			".add\\(",
+			".add(",
+			".add",
+			"add",
+			"OrderedWooClapCollection",
+			"p.idx",
+			"idx",
+			"addOrderedElement",
+			"createPresentation",
+			"ronan.corlay@ideactif.fr",
+			"contact",
+			"rona",
+			"^.*Added.*$",
+			"(\\w)\\s+'",
+			"^.*/.*$",
+			"^([^\\t]+)\\t([^\\t]+)\\t([^\\t]+)\\t([^\\t]+)$",
+			"^([^\\t])+\\t([^\\t])+\\t([^\\t])+\\t([^\\t])+$",
+			"addOrderedElement:",
+			"develop",
+			"autoFetch",
+			"weergave",
+			"ANAF EEN BESTAND IMPORTEREN",
+			"poll",
+			"het aantal keuzes in die",
+			"het aantal keuzes in die ",
+			"het aantal keuzes in die u i",
+			"Voer het aantal keuzes in die u i",
+			"Bijvoo",
+			"Voer de vraag in die u uw publiek wilt vragen",
+			" vraag in die u uw publiek wilt vragen",
+			"voer de vraag in die u uw publiek wilt vragen",
+			"Hoe deel te nemen",
+			"react\"",
+			"react",
+			"model.shared.switchToMainInterface",
+			"MainInter",
+			"<ResultModal",
+			"logoSrc",
+			".btn--outline",
+			"outline",
+			"parse",
+			"__dispFnHelper",
+			"selectedQuestion:",
+			"selectedQuestion",
+			"Rating",
+			"Rating.Star",
+			"Rating",
+			"maxS",
+			"message-box__text",
+			"_pushUser:",
+			"Presentations",
+			"itemClassName",
+			"$moderator-color",
+			"MessageBar",
+			"renderItems",
+			"this.props",
+			"/history",
+			"history",
+			"/history",
+			"browserHistory",
+			"fetc"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"r",
+			"{\n list_id: 6478,\n organisation_name: 'HEC',\n first_name: '\\1',\n jobtitle: '\\3',\n email: '\\4',\n last_name: '\\2'\n},",
+			"\\1'",
+			"{\n list_id: 6386,\n jobtitle: '\\2',\n organisation_name: '\\1',\n first_name: '\\3',\n email: '\\5',\n last_name: '\\4'\n},",
+			"",
+			"\\1'",
+			"",
+			"{\n list_id: 6255,\n organisation_name: '\\1',\n first_name: '\\2',\n email: '\\4',\n last_name: '\\3'\n},",
+			"Voer de vraag in die u uw publiek wilt stellen",
+			"$moderator",
+			"p",
+			"\\1\",",
+			"\\1\"",
+			"p",
+			"isModerator",
+			"app.gaSendEvent(",
+			"getPlans",
+			"getEvents",
+			"getEventsMap",
+			"getPlansMap",
+			"\\1'",
+			"",
+			"\\1'",
+			"\\1",
+			"",
+			"{\n list_id: 5447,\n	organisation_name: '\\1',\n	first_name: '\\2',\n	jobtitle: '\\4',\n	email: '\\5',\n	last_name: '\\3'\n},",
+			"",
+			"{\\n\\tlist_id: 5447,",
+			"{\n	organisation_name: '\\1',\n	first_name: '\\2',\n	jobtitle: '\\4',\n	email: '\\5',\n	last_name: '\\3'\n},",
+			"p.isModerator",
+			"moderateQuestion",
+			"m",
+			"s",
+			"5447",
+			"{\\nlist_id: 5133,",
+			"\\1'",
+			"{\n	organisation_name: '\\1',\n	first_name: '\\2',\n	jobtitle: '\\4',\n	email: '\\5',\n	last_name: '\\3'\n},",
+			"\\1'",
+			"{\n	organisation_name: '\\1',\n	first_name: '\\2',\n	jobtitle: '\\4',\n	email: '\\5',\n	last_name: '\\3'\n},",
+			"\\1'",
+			"{\n	organisation_name: '\\1',\n	first_name: '\\2',\n	jobtitle: '\\4',\n	email: '\\5',\n	last_name: '\\3'\n},",
+			"\\1'",
+			"{\n	organisation_name: '\\1',\n	first_name: '\\2',\n	jobtitle: '\\4',\n	email: '\\5',\n	last_name: '\\3'\n},",
+			"s",
+			"p",
+			"ParentResults",
+			"Report.MCQ",
+			"m",
+			"Report",
+			"",
+			"\\\\n",
+			"\\n",
+			"",
+			"showWordCloud",
+			"showWordCloud\n	organisation_name: '\\1',\n	email: '\\2'\n},",
+			"{\n	organisation_name: '\\1',\n	email: '\\2'\n},",
+			"",
+			"isEmpty",
+			"\"",
+			"<br>\\n",
+			"organisation_name",
+			"{\\nlist_id: 5133,",
+			"\\1'",
+			"'",
+			"\\1,",
+			"{\n	company: '\\1'\n	email: '\\2'\n},",
+			"{\n	company: '\\1'\n	first_name: '\\2',\n	email: '\\4',\n	last_name: '\\3' \n},",
+			"'",
+			"",
+			"{\n	company: '\\1'\n	first_name: '\\2',\n	email: '\\4',\n	last_name: '\\3' \n},",
+			"",
+			"questionsValue",
+			"isEmpty",
+			"props",
+			"s",
+			"isEmpty",
+			"'",
+			"setStateSafe",
+			"onExit",
+			"onToggleIsApproved",
+			"Example:",
+			"For instance",
+			"WALL_MESSAGE_REGEXP",
+			"",
+			"–",
+			"this.pendingItemsToRemove",
+			"",
+			"\\n",
+			"\"",
+			"p",
+			"",
+			"\\n",
+			"$",
+			"S'inscrire gratuitement",
+			"Sign up for free",
+			"",
+			"'",
+			"<a href=\\'https://www.wooclap.com/%(slug)s\\' target=\\'_blank\\'>www.wooclap.com/%(slug)s</a>",
+			"Connect to <a href=\\'https://www.wooclap.com/%(slug)s\\' target=\\'_blank\\'>www.wooclap.com/%(slug)s</a>",
+			"isUpdating",
+			"setStateSafe",
+			"#23b381",
+			"href=\"/landing/\\1",
+			"src=\"/landing/\\1",
+			"href=\"/landing/\\1",
+			"&ndash;",
+			"src=\"/landing/\\1",
+			"href=\"/landing/\\1",
+			"Lightbox",
+			"rightWidth",
+			"A4.width / 2 + colMargin",
+			"\"",
+			"cb",
+			"percentOff",
+			"amountOff",
+			"billingInformationFetched",
+			"cb",
+			"lastName",
+			"firstName",
+			"addressZip",
+			"addressState",
+			"addressCity",
+			"addressLine2",
+			"addressLine1",
+			"addressCountry",
+			"'Subscription'",
+			"",
+			"p"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 50.0
+	},
+	"input":
+	{
+		"height": 434.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 1122.0
+	},
+	"pinned_build_system": "",
+	"project": "redux-simple-starter.sublime-project",
+	"replace":
+	{
+		"height": 96.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"questionslayoutview",
+				"App\\Widgets\\Questions\\List\\LayoutView.html"
+			],
+			[
+				"eventla",
+				"App\\Widgets\\Events\\Details\\EventDetails.html"
+			],
+			[
+				"questionitemview",
+				"App\\Widgets\\Questions\\List\\QuestionItemView.html"
+			],
+			[
+				"questions.j",
+				"App\\Widgets\\Questions\\List\\QuestionsCollectionView.js"
+			],
+			[
+				"usersche",
+				"Server\\models\\user\\schema.js"
+			],
+			[
+				"p",
+				"Others\\package.json"
+			],
+			[
+				"socke",
+				"Server\\sockets\\SocketController.js"
+			],
+			[
+				"socket",
+				"App\\Application\\SocketController.js"
+			],
+			[
+				"eventaction",
+				"Server\\models\\event\\actions.js"
+			],
+			[
+				"contrqu",
+				"Server\\controllers\\question.js"
+			],
+			[
+				"ap",
+				"App\\Application\\Application.js"
+			],
+			[
+				"weba",
+				"Client\\webpack.config.js"
+			],
+			[
+				"ma",
+				"App\\main.js"
+			],
+			[
+				"web",
+				"Client\\webpack.config.js"
+			],
+			[
+				"m",
+				"App\\main.js"
+			],
+			[
+				"land",
+				"Client\\landing\\pages\\landing.hbs"
+			],
+			[
+				"asse",
+				"Client\\assets.js"
+			],
+			[
+				"lan",
+				"Client\\landing\\layouts\\landing.hbs"
+			],
+			[
+				"gru",
+				"Others\\Gruntfile.js"
+			],
+			[
+				"grunt",
+				"Others\\Gruntfile.js"
+			],
+			[
+				"ass",
+				"Client\\assets.js"
+			],
+			[
+				"webac",
+				"Client\\webpack.config.js"
+			],
+			[
+				"anima",
+				"Client\\sass\\common\\base\\_animations.scss"
+			],
+			[
+				"_mais.",
+				"Client\\sass\\common\\_main.scss"
+			],
+			[
+				"home",
+				"Client\\home.html"
+			],
+			[
+				"main",
+				"App\\main.js"
+			],
+			[
+				"commonmain",
+				"Client\\sass\\common\\_main.scss"
+			],
+			[
+				"animasc",
+				"Client\\sass\\common\\base\\_animations.scss"
+			],
+			[
+				"pack",
+				"Others\\package.json"
+			],
+			[
+				"gur",
+				"Others\\Gruntfile.js"
+			],
+			[
+				"pac",
+				"Others\\package.json"
+			],
+			[
+				"grun",
+				"Others\\Gruntfile.js"
+			],
+			[
+				"grut",
+				"Others\\Gruntfile.js"
+			],
+			[
+				"aut",
+				"App\\Views\\Components\\AutosizeText.jsx"
+			],
+			[
+				"aplic",
+				"App\\Application\\Application.js"
+			],
+			[
+				"aplica",
+				"App\\Application\\Application.js"
+			],
+			[
+				"pro",
+				"Server\\prospect\\prospect-io.js"
+			],
+			[
+				"data",
+				"Server\\prospect\\data-2016-03-24.js"
+			],
+			[
+				"ratinscs",
+				"Client\\sass\\results\\components\\_rating.scss"
+			],
+			[
+				"groupquesitons",
+				"App\\Views\\Dashboard\\GroupQuestions.jsx"
+			],
+			[
+				"questions.jsx",
+				"App\\Views\\Dashboard\\Questions.jsx"
+			],
+			[
+				"mixin",
+				"App\\Application\\mixins\\AuthMixin.js"
+			],
+			[
+				"groupquestions.jsx",
+				"App\\Views\\Dashboard\\GroupQuestions.jsx"
+			],
+			[
+				"event.jsx",
+				"App\\Views\\Dashboard\\Event.jsx"
+			],
+			[
+				"resultmoda",
+				"App\\Views\\Results\\ResultModal.jsx"
+			],
+			[
+				"_defau",
+				"Client\\sass\\common\\layouts\\_default.scss"
+			],
+			[
+				"presentations.jsx",
+				"App\\Views\\Dashboard\\Presentations.jsx"
+			],
+			[
+				"generic",
+				"Server\\models\\generic-element\\generic-element-mixin.js"
+			],
+			[
+				"presentations.js",
+				"App\\Models\\Presentation\\Presentations.js"
+			],
+			[
+				"presentation.jsx",
+				"App\\Views\\Dashboard\\Presentations.jsx"
+			],
+			[
+				"presentation.js",
+				"App\\Models\\Presentation\\Presentation.js"
+			],
+			[
+				"contpre",
+				"Server\\controllers\\presentation.js"
+			],
+			[
+				"presentdev",
+				"Server\\models\\presentation\\develop.js"
+			],
+			[
+				"listview",
+				"App\\Views\\Components\\ListView.jsx"
+			],
+			[
+				"trnl",
+				"App\\locales\\translation-nl.js"
+			],
+			[
+				"autosize",
+				"App\\Views\\Components\\AutosizeText.jsx"
+			],
+			[
+				"trfr",
+				"App\\locales\\translation-fr.js"
+			],
+			[
+				"invoiceshc",
+				"Server\\models\\invoice\\schema.js"
+			],
+			[
+				"subsche",
+				"Server\\models\\subscription\\schema.js"
+			],
+			[
+				"event.js",
+				"App\\Models\\Event\\Event.js"
+			],
+			[
+				"resultmo",
+				"App\\Views\\Results\\ResultModal.jsx"
+			],
+			[
+				"themdef",
+				"Client\\sass\\results\\themes\\_default.scss"
+			],
+			[
+				"resubut",
+				"Client\\sass\\results\\ui\\_buttons.scss"
+			],
+			[
+				"wall.jsx",
+				"App\\Views\\Results\\Wall.jsx"
+			],
+			[
+				"tra",
+				"App\\locales\\translation-fr.js"
+			],
+			[
+				"question.js",
+				"App\\Models\\Question\\Question.js"
+			],
+			[
+				"file.js",
+				"App\\Models\\File\\File.js"
+			],
+			[
+				"fileb",
+				"App\\Models\\Base\\FileBase.js"
+			],
+			[
+				"mcq",
+				"App\\Models\\Question\\subquestions\\MCQ\\MCQ.js"
+			],
+			[
+				"chocieba",
+				"App\\Models\\Base\\ChoiceBase.js"
+			],
+			[
+				"mcqchoice",
+				"App\\Models\\Question\\subquestions\\MCQ\\Choice.js"
+			],
+			[
+				"report",
+				"App\\Views\\Results\\Report.jsx"
+			],
+			[
+				"rating",
+				"Client\\sass\\results\\components\\_rating.scss"
+			],
+			[
+				"rerpot",
+				"App\\Views\\Results\\Report.jsx"
+			],
+			[
+				"resutlrat",
+				"App\\Views\\Results\\Rating.jsx"
+			],
+			[
+				"rating.js",
+				"App\\Models\\Question\\subquestions\\Rating\\Rating.js"
+			],
+			[
+				"interrating",
+				"App\\Views\\Interactions\\Rating.jsx"
+			],
+			[
+				"wallget",
+				"Server\\models\\question\\wall\\getters.js"
+			],
+			[
+				"contqu",
+				"Server\\controllers\\question.js"
+			],
+			[
+				"guessn",
+				"App\\Models\\Question\\subquestions\\GuessNumber\\GuessNumber.js"
+			],
+			[
+				"contrque",
+				"Server\\controllers\\question.js"
+			],
+			[
+				"controques",
+				"Server\\controllers\\question.js"
+			],
+			[
+				"wallansst",
+				"Server\\models\\question\\wall\\answer\\setter.js"
+			],
+			[
+				"wallaciton",
+				"Server\\models\\question\\wall\\actions.js"
+			],
+			[
+				"parentre",
+				"App\\Views\\Results\\ParentResults.jsx"
+			],
+			[
+				"number",
+				"Client\\sass\\results\\components\\_number-results.scss"
+			],
+			[
+				"events.jsx",
+				"App\\Views\\Dashboard\\Events.jsx"
+			],
+			[
+				"presnetations",
+				"App\\Views\\Dashboard\\Presentations.jsx"
+			],
+			[
+				"quesitons.jsx",
+				"App\\Views\\Dashboard\\Questions.jsx"
+			],
+			[
+				"color",
+				"Client\\sass\\common\\base\\_colors.scss"
+			],
+			[
+				"sction",
+				"Client\\sass\\common\\components\\_section-list.scss"
+			],
+			[
+				"hom",
+				"Client\\home.html"
+			],
+			[
+				"inlineedit",
+				"App\\Views\\Components\\InlineEdit.jsx"
+			],
+			[
+				"tabs",
+				"App\\Views\\Components\\Tabs.jsx"
+			],
+			[
+				"router",
+				"App\\Application\\Router.jsx"
+			],
+			[
+				"wallanswerde",
+				"Server\\models\\question\\wall\\answer\\develop.js"
+			],
+			[
+				"wallanswe",
+				"App\\Models\\Question\\subquestions\\Wall\\Answer.js"
+			],
+			[
+				"wall.js",
+				"App\\Models\\Question\\subquestions\\Wall\\Wall.js"
+			],
+			[
+				"wallaction",
+				"Server\\models\\question\\wall\\actions.js"
+			],
+			[
+				"wallge",
+				"Server\\models\\question\\wall\\getters.js"
+			],
+			[
+				"answer",
+				"App\\Models\\Base\\AnswerBase.js"
+			],
+			[
+				"gorupqueba",
+				"App\\Models\\GroupQuestionBase\\GroupQuestionBase.js"
+			],
+			[
+				"groupquestion",
+				"App\\Views\\Dashboard\\GroupQuestion.jsx"
+			],
+			[
+				"messagebar",
+				"App\\Views\\Components\\MessageBar.jsx"
+			],
+			[
+				"upgra",
+				"App\\Views\\Shared\\UpgradeBar.jsx"
+			],
+			[
+				"question",
+				"App\\Views\\Dashboard\\Question.jsx"
+			],
+			[
+				"tr",
+				"App\\locales\\translation-nl.js"
+			],
+			[
+				"tranl",
+				"App\\locales\\translation-nl.js"
+			],
+			[
+				"appli",
+				"App\\Application\\Application.js"
+			],
+			[
+				"topm",
+				"App\\Views\\Shared\\TopMenu.jsx"
+			],
+			[
+				"link",
+				"App\\Views\\Components\\Link.jsx"
+			],
+			[
+				"tren",
+				"App\\locales\\translation-en.js"
+			],
+			[
+				"tres",
+				"App\\locales\\translation-es.js"
+			],
+			[
+				"paretn",
+				"App\\Views\\Results\\ParentResults.jsx"
+			],
+			[
+				"traes",
+				"App\\locales\\translation-es.js"
+			],
+			[
+				"trde",
+				"App\\locales\\translation-de.js"
+			],
+			[
+				"section",
+				"Client\\sass\\common\\components\\_section-list.scss"
+			],
+			[
+				"appla",
+				"App\\Views\\ApplicationLayout.jsx"
+			],
+			[
+				"tool",
+				"Client\\sass\\dashboard\\components\\_tooltip.scss"
+			],
+			[
+				"appcl",
+				"App\\Views\\ApplicationLayout.jsx"
+			],
+			[
+				"too",
+				"Client\\sass\\dashboard\\components\\_tooltip.scss"
+			],
+			[
+				"scss",
+				"Client\\sass\\main.scss"
+			],
+			[
+				"billin",
+				"App\\Views\\Dashboard\\BillingInformationModal.jsx"
+			],
+			[
+				"trafr",
+				"App\\locales\\translation-fr.js"
+			],
+			[
+				"contrpa",
+				"Server\\controllers\\payments.js"
+			],
+			[
+				"payp",
+				"Server\\payments\\payment-processing.js"
+			],
+			[
+				"paymenmodal",
+				"App\\Views\\Dashboard\\PaymentModal.jsx"
+			],
+			[
+				"quesiton.js",
+				"App\\Models\\Question\\Question.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 1000.0,
+		"last_filter": "xls",
+		"selected_items":
+		[
+			[
+				"xls",
+				"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\git\\woocs-excel\\woocs-excel.sublime-project"
+			],
+			[
+				"",
+				"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\git\\code-challenge\\code-challenge.sublime-project"
+			],
+			[
+				"code",
+				"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\git\\code-challenge\\code-challenge.sublime-project"
+			],
+			[
+				"we",
+				"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\git\\web-scraper\\web-scraper.sublime-project"
+			],
+			[
+				"web",
+				"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\git\\web-scraper\\web-scraper.sublime-project"
+			],
+			[
+				"up",
+				"C:\\Users\\EAgle\\Dropbox\\EAgle\\8.2015\\wooclap\\git\\wooclap-upgrading-landing-page\\main.sublime-project"
+			]
+		],
+		"width": 760.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 480.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
